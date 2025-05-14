@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akunprow.github.io/info/sitemap.xml
